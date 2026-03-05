@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="channel1" tvg-name="zeetelugu" group-title="Ent",Zee-telugu
+https://airtel.rkdyiptv.workers.dev/live/830.m3u8
+
+#EXTINF:-1 tvg-id="channel2" tvg-name="etv" group-title="Gen",Etv
+https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="channel3" tvg-name="zee Movie " group-title="Movies",Movie Channel
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/ZeeCinemaluHD_BTS/output/index.mpd?__hdnea__=st=1772655905~exp=1772742305~acl=/*~hmac=68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58&xxx=%7Ccookie=__hdnea__=st=1772655905~exp=1772742305~acl=/*~hmac=68dd022bdca072e5aebbc33c2a5eb4540b9ec518d410712e11e7c7d9f158ce58
