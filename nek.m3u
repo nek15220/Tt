@@ -121,3 +121,6 @@ https://local.vinayakz.in/mewo/live/channel/513.m3u8
 
 #EXTINF:-1 tvg-id="&xplor.in@HD","&xplor us" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/%26xplor_HD.png" group-title="Movies", &xplor
 https://local.vinayakz.in/mewo/live/channel/514.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in","Zee Cinema Hd" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-hd-in.png" group-title="Movies", Zee Cinema HD
+https://local.vinayakz.in/mewo/live/channel/511.m3u8
