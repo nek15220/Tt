@@ -120,3 +120,9 @@ http://pkg.uius.live/jplus/413.mpd
 #KODIPROP:inputstream.adaptive.license_key=b71f9a5cb8325078bb6b59528b553cc2:fa2c33f8a7d9933a347562bf092a90fe
 #EXTINF:-1 tvg-id="Zee Cinemalu hd" group-title="Entertainment", Zee Cinemalu HD
 http://pkg.uius.live/jplus/1363.mpd
+
+#EXTINF:-1 tvg-id="&xplor.in@SD",&xplor
+https://local.vinayakz.in/mewo/live/channel/513.m3u8
+
+#EXTINF:-1 tvg-id="&xplor.in@HD",&xplor us
+https://local.vinayakz.in/mewo/live/channel/514.m3u8
