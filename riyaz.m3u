@@ -126,3 +126,9 @@ https://local.vinayakz.in/mewo/live/channel/514.m3u8
 #KODIPROP:inputstream.adaptive.license_key=90d8713ba5e85d779d005b1f14a5bc8d:33650314fe1e945017640ba9878c5de9
 #EXTINF:-1 tvg-id="Zee Cinema sd" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-hd-in.png" group-title="Movies", Zee Cinema Sd
 http://pkg.uius.live/jplus/484.mpd
+
+#EXTINF:-1 tvg-id="Starmaamovies","Star maa  movies" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/star-maa-movies-hd-in.png" group-title="Movies", Star Maa Movies
+https://local.vinayakz.in/mewo/live/channel/1062.m3u8
+
+#EXTINF:-1 tvg-id="Cocomelon","Cocomelon" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/coco.png" group-title="Kids", Cocomelon
+https://www.youtube.com/live/9QRW4Zye_gs?si=1lwSrhiXYz8cWTNY
