@@ -106,10 +106,8 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 #EXTINF:-1 tvg-id="TV9Telugu.in@SD","TV9 Telugu (720p)" tvg-language="Telugu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/tv9-bharatvarsh-in.png" group-title="News", TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f17e6167dfe5a87a6163cfadede52bc:09e030ff1daf74b4967dc08a392e337f
 #EXTINF:-1 tvg-id="Zee Cinemalu sd" tvg-language="Telugu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinemalu-in.png" group-title="Movies", Zee Cinemalu sd
-http://pkg.uius.live/jplus/413.mpd
+http://mini.allinonereborn.site/tata.php?id=44185
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b71f9a5cb8325078bb6b59528b553cc2:fa2c33f8a7d9933a347562bf092a90fe
@@ -130,3 +128,4 @@ https://local.vinayakz.in/mewo/live/channel/1062.m3u8
 
 #EXTINF:-1 tvg-id="Cocomelon","Cocomelon" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/coco.png" group-title="Kids", Cocomelon
 https://www.youtube.com/watch?v=bPZ_r55v8us
+
