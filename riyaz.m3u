@@ -106,8 +106,13 @@ https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Cinema/dash/drm/index.mpd
 #EXTINF:-1 tvg-id="TV9Telugu.in@SD","TV9 Telugu (720p)" tvg-language="Telugu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/tv9-bharatvarsh-in.png" group-title="News", TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Zee Cinemalu sd" tvg-language="Telugu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinemalu-in.png" group-title="Movies", Zee Cinemalu sd
-http://mini.allinonereborn.site/tata.php?id=44185
+#EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-logo="https://img.media.jio.com/tvpimages/36/74/300346_1768298487528_l_medium.jpg" group-title="Movies",Zee Cinemalu
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/413/
+#EXTVLCOPT:http-user-agent=JioTV.Plus/2.8.4_2076/StreamFlex(StreamFlex;JioSTB) JioTvPlus-AndroidTv
+#EXTHTTP:{"cookie":"__hdnea__=st=1788327506~exp=1788349106~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=61c7454d689c2c08454acda751da4b5968f7b5506c4774eb6c822f4ba3c4e348"}
+https://jiotvbpkstb.cdn.jio.com/bpk-tv/ZeeCinemalu_BTS/WDVLive/index.mpd?__hdnea__=st=1788327506~exp=1788349106~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=61c7454d689c2c08454acda751da4b5968f7b5506c4774eb6c822f4ba3c4e348?|Cookie=__hdnea__=st=1788327506~exp=1788349106~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=61c7454d689c2c08454acda751da4b5968f7b5506c4774eb6c822f4ba3c4e348&xxx=%7Ccookie=__hdnea__=st=1788327506~exp=1788349106~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=61c7454d689c2c08454acda751da4b5968f7b5506c4774eb6c822f4ba3c4e348
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b71f9a5cb8325078bb6b59528b553cc2:fa2c33f8a7d9933a347562bf092a90fe
