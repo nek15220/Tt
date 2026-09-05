@@ -100,7 +100,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-logo="https://img.media.jio.com/tvpimages/36/74/300346_1768298487528_l_medium.jpg" group-title="Movies", Zee Cinemalu
 http://line.mytv-zone.com:80/live/muratdingol/UUFFWZEY6L/63407.ts
 
-##EXTINF:-1 tvg-id="" tvg-name="IND: TG: ZEE CINEMALU HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png" group-title="Movies", ZEE CINEMALU HD
+#EXTINF:-1 tvg-id="" tvg-name="IND: TG: ZEE CINEMALU HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png" group-title="Movies", ZEE CINEMALU HD
 http://mxonlive.xyz/live/xap/381108.m3u8?e=1788712501&token=e2d03be3043eebaffb4da6d504f4a2872ac40e28ac94c78d1cbd17c6cfbdb873
 
 #EXTINF:-1 tvg-id="&xplor.in@SD","&xplor" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/%26xplor.png" group-title="Movies", &xplor
