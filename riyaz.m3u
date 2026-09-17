@@ -101,20 +101,20 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="413" tvg-name="Zee Cinemalu" tvg-logo="https://img.media.jio.com/tvpimages/36/74/300346_1768298487528_l_medium.jpg" group-title="Movies", Zee Cinemalu
 http://line.mytv-zone.com:80/live/muratdingol/UUFFWZEY6L/63407.ts
 
-#EXTINF:-1 tvg-id="Zeecinemalu hd"Zeecinemalu hd tvg-language="Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png" group-title="Movies", ZEE CINEMALU HD
+##EXTINF:-1 tvg-id="Zeecinemalu hd"Zeecinemalu hd tvg-language="Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png" group-title="Movies", ZEE CINEMALU HD
 http://mxonlive.xyz/live/xap/381108.m3u8?e=1788837719&token=23195e51909ea785061a237905160c52423384a9acbb5eb918b7ce3fdfc6dc06
 
 #EXTINF:-1 tvg-id="&xplor.in@SD","&xplor" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/%26xplor.png" group-title="Movies", &xplor
-https://local.vinayakz.in/mewo/live/channel/513.m3u8
+http://line.mytv-zone.com:80/live/muratdingol/UUFFWZEY6L/143805.ts
 
-#EXTINF:-1 tvg-id="&xplor.in@HD","&xplor us" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/%26xplor_HD.png" group-title="Movies", &xplor HD
+##EXTINF:-1 tvg-id="&xplor.in@HD","&xplor us" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/%26xplor_HD.png" group-title="Movies", &xplor HD
 https://local.vinayakz.in/mewo/live/channel/514.m3u8
 
 #EXTINF:-1 tvg-id="Zee Cinema sd" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-hd-in.png" group-title="Movies", Zee Cinema Sd
 https://local.vinayakz.in/mewo/live/channel/511.m3u8
 
 #EXTINF:-1 tvg-id="Starmaamovies","Star maa  movies" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/star-maa-movies-hd-in.png" group-title="Movies", Star Maa Movies
-https://local.vinayakz.in/mewo/live/channel/1062.m3u8
+http://line.mytv-zone.com:80/live/muratdingol/UUFFWZEY6L/63489.ts
 
 #EXTINF:-1 tvg-id="Cocomelon","Cocomelon" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/coco.png" group-title="Kids", Cocomelon
 
