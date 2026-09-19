@@ -45,12 +45,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverychannel2/default/manifest.
 #EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/vIA7TExn.png" group-title="Education", Discovery Science
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
 #EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/BNu8WvFw.png" group-title="Movies", Korean Drama Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+##KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b994480f788d41ddbc805862ac469416:78a6a0fc1758483595da7113e58e4467
 #EXTINF:-1 tvg-id="shorts-tv-active" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/lcMc75Xr.png" group-title="Movies", Shorts TV Active
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Shortstv2/default/manifest.mpd
@@ -113,9 +113,8 @@ https://local.vinayakz.in/mewo/live/channel/514.m3u8
 #EXTINF:-1 tvg-id="Zee Cinema sd" tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-hd-in.png" group-title="Movies", Zee Cinema Sd
 https://local.vinayakz.in/mewo/live/channel/511.m3u8
 
-#EXTINF:-1 tvg-id="Starmaamovies" tvg-name="Starmaamovies" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/star-maa-movies-hd-in.png" group-title="Movies", Star Maa Movies
+#EXTINF:-1 tvg-id="Starmaamovies" tvg-name="Starmaa movies" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/star-maa-movies-hd-in.png" group-title="Movies", Star Maa Movies
 http://line.mytv-zone.com:80/live/muratdingol/UUFFWZEY6L/63489.ts
 
-#EXTINF:-1 tvg-name="Cocomelon","Cocomelon" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/coco.png" group-title="Kids", Cocomelon
 
 
