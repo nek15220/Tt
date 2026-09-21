@@ -106,14 +106,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
 
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies", Sony MAX HD
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg" group-title="Movies", Sony MAX HD
 https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
 
-#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies", Sony MAX
+#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://img.media.jio.com/tvpimages/3/1/300277_1753198063650_l_medium.jpg" group-title="Movies", Sony MAX
 https://sliv.tgaadi.workers.dev/sonymaxsd.m3u8
 
-#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies", Sony WAH
+#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://img.media.jio.com/tvpimages/75/37/300269_1753198012625_l_medium.jpg" group-title="Movies", Sony WAH
 https://sliv.tgaadi.workers.dev/sonywah.m3u8
 
-#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sony Yay
+#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://img.media.jio.com/tvpimages/20/59/300270_1753198448010_l_medium.jpg" group-title="Kids", Sony Yay
 https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
+
+#EXTINF:-1 tvg-id="song" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/mus.png" group-title="SONGS", JUKE BOX
+https://drive.google.com/file/d/1-EBsFaDioibONS-GSjxE1hJXKQuhtpP9/view?usp=drive_link
