@@ -29,7 +29,7 @@ https://streamflexsmm.in/Sflex-Jio/300310/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/301978
 https://streamflexsmm.in/Sflex-Jio/301978/manifest.mpd
 
-#EXTINF:-1 tvg-id="star-maa" tvg-language="Telugu" tvg-logo="https://img.media.jio.com/tvpimages/61/7/301986_1749652711344_p.jpg" group-title="Telugu", Star Maa HD
+#EXTINF:-1 tvg-id="star-maa" tvg-logo="https://img.media.jio.com/tvpimages/61/7/301986_1749652711344_p.jpg" group-title="Telugu", Star Maa HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starmaa1_live_https/index.m3u8
@@ -38,7 +38,7 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302072
-https://streamflexsmm.in/Sflex-Jio/302072/manifest.mp
+https://streamflexsmm.in/Sflex-Jio/302072/manifest.mpd
 
 #EXTINF:-1 tvg-id="194392" tvg-logo="https://img.media.jio.com/tvpimages/53/23/304174_1777562706492_l_medium.jpg" group-title="Telugu" tvg-language="Telugu",Sun Gemini HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -64,7 +64,7 @@ https://streamflexsmm.in/Sflex-Jio/301701/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300322
 https://streamflexsmm.in/Sflex-Jio/300322/manifest.mpd
 
-#EXTINF:-1 tvg-id="649" tvg-language="Telugu" tvg-logo="https://img.media.jio.com/imagespublic/10/0/NTV_1574694185281_tv.jpg" group-title="News", NTV
+#EXTINF:-1 tvg-id="649" tvg-logo="https://img.media.jio.com/imagespublic/10/0/NTV_1574694185281_tv.jpg" group-title="News", NTV
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 
 #EXTINF:-1 tvg-id="ZeeCinema"tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-hd-in.png" group-title="Movies", Zee Cinema
@@ -103,17 +103,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 #EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Telugu", Zee Telugu HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
-#EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", SET HD
+#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
 
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX HD
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies", Sony MAX HD
 https://sliv.tgaadi.workers.dev/sonymaxhd.m3u8
 
-#EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony MAX
+#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="Movies", Sony MAX
 https://sliv.tgaadi.workers.dev/sonymaxsd.m3u8
 
-#EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony WAH
+#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies", Sony WAH
 https://sliv.tgaadi.workers.dev/sonywah.m3u8
 
-#EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-language="Hindi" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png", Sony Yay
+#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids", Sony Yay
 https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
