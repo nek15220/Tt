@@ -1,9 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="413" tvg-logo="https://img.media.jio.com/tvpimages/36/74/300346_1768298487528_l_medium.jpg" group-title="Movies" tvg-language="Telugu",Zee Cinemalu
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300346
-https://streamflexsmm.in/Sflex-Jio/300346/manifest.mpd
+http://yolomax.pro:80/live/3Q43L4L/59R3J6J/34427.m3u8
 
 #EXTINF:-1 tvg-id="1363" tvg-logo="https://img.media.jio.com/tvpimages/41/55/304099_1768467977325_l_medium.jpg" group-title="Movies" tvg-language="Telugu",Zee Cinemalu HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -18,10 +15,7 @@ https://streamflexsmm.in/Sflex-Jio/304099/manifest.mpd
 https://streamflexsmm.in/Sflex-Jio/300330/manifest.mpd
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://img.media.jio.com/tvpimages/64/80/300310_1753869347739_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Zee Cinema
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300310
-https://streamflexsmm.in/Sflex-Jio/300310/manifest.mpd
+http://yolomax.pro:80/live/3Q43L4L/59R3J6J/316373.m3u8
 
 #EXTINF:-1 tvg-id="760" tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652833210_p.jpg" group-title="Movies" tvg-language="Telugu",Star Maa Movies HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -119,10 +113,10 @@ https://sliv.tgaadi.workers.dev/sonywah.m3u8
 https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
 
 #EXTINF:-1 tvg-id="Movie" tvg-logo="" group-title="Telugu Movie", Irumuki
-http://vodserver01.akamaix.com/5e9ab44576c087e741ec666668864bf8365637c6ad65da4bc0b473d9e53bcc7eb7f5aff919a901fef80291d3/playlist.m3u8?token=5a6542238ce412307d1e8f72232101d4&vtt_mode=standard
+http://89.222.122.37/5e9ab44576c087e741ec666668864bf8365637c6ad65da4bc0b473d9e53bcc7eb7f5aff919a901fef80291d3/playlist.m3u8?token=5a6542238ce412307d1e8f72232101d4&vtt_mode=standard
 
 #EXTINF:-1 tvg-id="Movie" tvg-logo="" group-title="Telugu Movie",Lenin
-http://vodserver01.akamaix.com/5e9ab44576c087e741ec6371738250b26d4837c0b162c442c0fc6dfeae0ee158d1dcf1a051d90d8cfb05/playlist.m3u8?token=f5629200a5b0116f007f8fa834fefa88&vtt_mode=standard
+http://89.222.122.37/5e9ab44576c087e741ec6371738250b26d4837c0b162c442c0fc6dfeae0ee158d1dcf1a051d90d8cfb05/playlist.m3u8?token=f5629200a5b0116f007f8fa834fefa88&vtt_mode=standard
 
 #EXTINF:-1 tvg-id="Movie" tvg-logo="" group-title="Telugu Movie", chennai Love story
 http://89.222.122.37/5e9ab44576c087e741ec6c7c788550fd36564999e936da2984e331d0e55e992ec99fb6a659ed17eda956eea6531dae649598bc687042/playlist.m3u8?token=768742b359ec77275450a984a1aae8ae&vtt_mode=standard
