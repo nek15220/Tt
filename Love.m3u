@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Goldmines" tvg-name="Goldmines" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png/revision/latest?cb=20230126170355" group-title="Movies",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="Goldmines movie" tvg-name="Goldmines movie" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg/revision/latest?cb=20220330145551" group-title="Movie",Goldmines movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-id="Doraemon" tvg-name="Doraemon" tvg-logo="https://logos.fandom.com/wiki/File:Doraemon.svg" group-title="Kids",24/7 Doraemon
+https://live20.bozztv.com/giatvplayout7/giatv-209902/index.m3u8
