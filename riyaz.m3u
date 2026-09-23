@@ -124,3 +124,5 @@ http://vodserver01.akamaix.com/5e9ab44576c087e741ec666668864bf8365637c6ad65da4bc
 #EXTINF:-1 tvg-id="Movie" tvg-logo="" group-title="Telugu Movie",Lenin
 http://vodserver01.akamaix.com/5e9ab44576c087e741ec6371738250b26d4837c0b162c442c0fc6dfeae0ee158d1dcf1a051d90d8cfb05/playlist.m3u8?token=f5629200a5b0116f007f8fa834fefa88&vtt_mode=standard
 
+#EXTINF:-1 tvg-id="Movie" tvg-logo="" group-title="Telugu Movie", chennai Love story
+http://89.222.122.37/5e9ab44576c087e741ec6c7c788550fd36564999e936da2984e331d0e55e992ec99fb6a659ed17eda956eea6531dae649598bc687042/playlist.m3u8?token=768742b359ec77275450a984a1aae8ae&vtt_mode=standard
