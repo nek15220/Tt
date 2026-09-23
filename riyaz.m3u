@@ -3,16 +3,10 @@
 http://yolomax.pro:80/live/3Q43L4L/59R3J6J/34427.m3u8
 
 #EXTINF:-1 tvg-id="1363" tvg-logo="https://img.media.jio.com/tvpimages/41/55/304099_1768467977325_l_medium.jpg" group-title="Movies" tvg-language="Telugu",Zee Cinemalu HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304099
-https://streamflexsmm.in/Sflex-Jio/304099/manifest.mpd
+https://streamflexsmm.in/SFlex-StarShare/9016.m3u8
 
 #EXTINF:-1 tvg-id="165" tvg-logo="https://img.media.jio.com/tvpimages/76/6/300330_1768289569650_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Zee Cinema HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/300330
-https://streamflexsmm.in/Sflex-Jio/300330/manifest.mpd
+https://streamflexsmm.in/SFlex-StarShare/230.m3u8
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://img.media.jio.com/tvpimages/64/80/300310_1753869347739_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Zee Cinema
 http://yolomax.pro:80/live/3Q43L4L/59R3J6J/316373.m3u8
@@ -33,24 +27,6 @@ https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/302072
 https://streamflexsmm.in/Sflex-Jio/302072/manifest.mpd
-
-#EXTINF:-1 tvg-id="194392" tvg-logo="https://img.media.jio.com/tvpimages/53/23/304174_1777562706492_l_medium.jpg" group-title="Telugu" tvg-language="Telugu",Sun Gemini HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304174
-https://streamflexsmm.in/Sflex-Jio/304174/manifest.mpd
-
-#EXTINF:-1 tvg-id="192537" tvg-logo="https://img.media.jio.com/tvpimages/96/3/304171_1777562276450_l_medium.jpg" group-title="Movies" tvg-language="Telugu",Sun Gemini Movies HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/304171
-https://streamflexsmm.in/Sflex-Jio/304171/manifest.mpd
-
-#EXTINF:-1 tvg-id="1973" tvg-logo="https://img.media.jio.com/tvpimages/32/32/301701_1753177987178_l_medium.jpg" group-title="Telugu" tvg-language="Telugu",ETV HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/license/301701
-https://streamflexsmm.in/Sflex-Jio/301701/manifest.mpd
 
 #EXTINF:-1 tvg-id="300322" tvg-logo="https://img.media.jio.com/tvpimages/57/69/300322_1768298093901_l_medium.jpg" group-title="Movies" tvg-language="Hindi",&xplor HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -111,12 +87,3 @@ https://sliv.tgaadi.workers.dev/sonywah.m3u8
 
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://img.media.jio.com/tvpimages/20/59/300270_1753198448010_l_medium.jpg" group-title="Kids", Sony Yay
 https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
-
-#EXTINF:-1 tvg-id="Movie" tvg-logo="" group-title="Telugu Movie", Irumuki
-http://89.222.122.37/5e9ab44576c087e741ec666668864bf8365637c6ad65da4bc0b473d9e53bcc7eb7f5aff919a901fef80291d3/playlist.m3u8?token=5a6542238ce412307d1e8f72232101d4&vtt_mode=standard
-
-#EXTINF:-1 tvg-id="Movie" tvg-logo="" group-title="Telugu Movie",Lenin
-http://89.222.122.37/5e9ab44576c087e741ec6371738250b26d4837c0b162c442c0fc6dfeae0ee158d1dcf1a051d90d8cfb05/playlist.m3u8?token=f5629200a5b0116f007f8fa834fefa88&vtt_mode=standard
-
-#EXTINF:-1 tvg-id="Movie" tvg-logo="" group-title="Telugu Movie", chennai Love story
-http://89.222.122.37/5e9ab44576c087e741ec6c7c788550fd36564999e936da2984e331d0e55e992ec99fb6a659ed17eda956eea6531dae649598bc687042/playlist.m3u8?token=768742b359ec77275450a984a1aae8ae&vtt_mode=standard
