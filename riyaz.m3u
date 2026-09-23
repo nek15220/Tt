@@ -100,7 +100,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictures/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ce5cd75a6ad44a38a7d1b8dbaf9c330:657fc8e7d533456cb0644fe03458a4b2
-#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6vNzRaRK.png" group-title="Telugu", Zee Telugu HD
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://img.media.jio.com/tvpimages/69/97/304102_1768463514417_l_medium.jpg" group-title="Telugu", Zee Telugu HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetelgu/default/manifest.mpd
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
@@ -119,4 +119,4 @@ https://sliv.tgaadi.workers.dev/sonywah.m3u8
 https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
 
 #EXTINF:-1 tvg-id="song" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/mus.png" group-title="SONGS", JUKE BOX
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1790030968/ei/GGCxasuhIPvP1PIP0MrhKQ/ip/86.107.43.88/id/8bcb8e5432675922/source/youtube/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/playback_host/rr5---sn-4g5ednrl.googlevideo.com/cps/463/met/1790009368%2C/mh/8d/mm/18%2C26/mn/sn-4g5ednrl%2Csn-1giz7n7l/ms/aub%2Conr/mv/u/mvi/5/pl/24/rms/aub%2Caub/hfr/1/enc/1/maudio/1/bui/AR3QkAlSMqGWGU7yIjTfzgMCC0KdLzENr8EexE5ufYxlqKMOPjEPk66B_pMqORL4S1IRSi_MYUfbOCRd/spc/I-rgIfDisBCs1vCATLD9YpSSgy3DF-jUYuOSJWQihK0y-bsICa3FwX7loBE5bmtG75eeHT1L4Fc/vprv/1/go/0/odrmc/CAEQAQ/ns/qCJDmdBzvNQ41buCZ_2yH-gY/rqh/5/mt/1790008942/fvip/1/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115/dover/13/n/Mw0jpvmS3bXJtnAAHOg/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cenc%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Codrmc%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AE0s2JYwRgIhAJWmjShQc6owfvu2jzel3dNOXLTo9ahegFiqPROfMHJLAiEA81ARcRy_rQPiul0bwMCG5sQ4_3vMFSj95rdkCGVjIms%3D/lsparams/playback_host%2Ccps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms/lsig/APaTxxMwRQIgagP66iHjX_hrl4z0NlnnOYZWH2-ZU2vaeQPfJ4plNZUCIQCCGVPCnvyh7ZBJNmSgBNVurL70ygrwsZvzaCvKEukhog%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/sahiba.mp4
