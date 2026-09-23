@@ -118,5 +118,9 @@ https://sliv.tgaadi.workers.dev/sonywah.m3u8
 #EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://img.media.jio.com/tvpimages/20/59/300270_1753198448010_l_medium.jpg" group-title="Kids", Sony Yay
 https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
 
-#EXTINF:-1 tvg-id="song" tvg-logo="https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/mus.png" group-title="SONGS", JUKE BOX
-https://raw.githubusercontent.com/nek15220/Logo/refs/heads/main/sahiba.mp4
+#EXTINF:-1 tvg-id="Movie" tvg-logo="" group-title="Telugu Movie", Irumuki
+http://vodserver01.akamaix.com/5e9ab44576c087e741ec666668864bf8365637c6ad65da4bc0b473d9e53bcc7eb7f5aff919a901fef80291d3/playlist.m3u8?token=5a6542238ce412307d1e8f72232101d4&vtt_mode=standard
+
+#EXTINF:-1 tvg-id="Movie" tvg-logo="" group-title="Telugu Movie",Lenin
+http://vodserver01.akamaix.com/5e9ab44576c087e741ec6371738250b26d4837c0b162c442c0fc6dfeae0ee158d1dcf1a051d90d8cfb05/playlist.m3u8?token=f5629200a5b0116f007f8fa834fefa88&vtt_mode=standard
+
