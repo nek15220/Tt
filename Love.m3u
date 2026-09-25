@@ -16,3 +16,8 @@ https://mini.allinonereborn.site/tatatv/tata3.php?id=44185
 https://mini.allinonereborn.site/tatatv/tata3.php?id=11693
 #EXTINF:-1 ,&XPLOR 
 https://mini.allinonereborn.site/tatatv/tata3.php?id=11619
+
+#EXTINF:-1 tvg-id="760" tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652833210_p.jpg" group-title="Movies" tvg-language="Telugu",
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a29004adb8138246b46251d113e211b3
+http://194.147.150.130:29843/ghLs2zdZSnFvSS0000ab2d263a5f8d78282c8db5e16e6d499269c07f67feebe9b186336ac1/index.m3u8
