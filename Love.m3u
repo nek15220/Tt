@@ -5,7 +5,7 @@ https://streamflexsmm.in/SFlex-StarShare/9016.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=:d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b
+#KODIPROP:inputstream.adaptive.license_key=e2f8496a3c4ebafc44650d6ff7105d62:be2a3d5e5113f06f822562068f7721ee,d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f,4daa30df33a8d0e6a7a7a167cf5e8987:0bc387e79fb9f65b58d9b35afdc2bbc9,6b4caf847f30f962f5addcda4c77b12c:4adf654a10b5f3afbf285693a3b43d23,c3f133e51cdf06da4a9906234faeffbe:1970bbae555ed81483a06c1f5fd98af3
 #EXTINF:-1 tvg-id="zz",zeecenima-key
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1791127056~exp=1791130656~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=b774bd6258d5c1f2b8992cac695be32a3ed67e54be4efa69eb29bdc7f9dff16b
 
