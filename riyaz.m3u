@@ -9,10 +9,13 @@ http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/9016.ts
 http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/98860.ts
 
 #EXTINF:-1 tvg-id="484" tvg-logo="https://img.media.jio.com/tvpimages/64/80/300310_1753869347739_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Zee Cinema
-https://mini.allinonereborn.site/tatatv/tata3.php?id=11693
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeecinemaapachd.smil/chunklist_b896000.m3u8
 
 #EXTINF:-1 tvg-id="star-maa-movie" tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652833210_p.jpg" group-title="Movies" tvg-language="Telugu",Star Maa Movies HD
 http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/9015.ts
+
+#EXTINF:-1 tvg-id="star-maa-movie" tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652833210_p.jpg" group-title="Movies" tvg-language="Telugu",Star Maa Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
 #EXTINF:-1 tvg-id="star-maa" tvg-logo="https://img.media.jio.com/tvpimages/61/7/301986_1749652711344_p.jpg" group-title="Telugu", Star Maa HD
 http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/168.ts
