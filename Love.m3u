@@ -24,3 +24,16 @@ https://mini.allinonereborn.site/tatatv/tata3.php?id=11619
 http://1323302.3259760803.favermeto.com/live/5axHnPxfJG/automatic8meet/98896.ts?token=ShJcU0BbQQNHAQJcBVoCAQEIBwQAV1BQCARQD1RdUlcFAwACBgdaDFEbGBpEF0dcWF1vWQIXXlgJWlsBSUZGQVRCa1tXEVkbVAoGCwRTBxsVEkRZC1BGWwBVWwddUwcDCQgYEENaBxtfGwYLA1EBDAoSHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBN0XVVaRwJVRXZXXVYNFxUbUllEFFQQBBNYQAVSVAIQHRJXXUZdF0scGw4aYjAXFRtVSEQDWxcIXgxADUcQQBAdEl1BbEEGShFLUVlaBkcbAxIAEkoXCQBJPQFYCwpWUUVZW1xAEVkbVBsYGloMW1BNX0JvFlwAQwtAUwNcUgUQHRJBR1pXQQNHXVBZVAdTDl1RCQNRVFFQB1MEUgYFBFABCFcGBVcBWwQbSQ==
 #EXTINF:-1 ,STALKER
 http://45.155.89.138/5defb44571cfe49a34f31e265c855ac42f146a84d717c443c8bb759cff5f9b2dcd82/mono.m3u8?token=5a313651162f14de2e8d80b858c2ab0a
+
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Sportlink I Movies",Zee Cinema HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f,d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.jiotv.com/&Origin=https://www.jiotv.com/&Cookie=__hdnea__=st=1791560210~exp=1791563810~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=8531ed6e7b4de43d35d4814cd54133605ec8361b6d843543cdfe5d35912b5f2a
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.jiotv.com/
+#EXTVLCOPT:http-cookie=__hdnea__=st=1791560210~exp=1791563810~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=8531ed6e7b4de43d35d4814cd54133605ec8361b6d843543cdfe5d35912b5f2a
+#EXTHTTP:{"User-Agent": "Virat", "Referer": "https://www.jiotv.com/", "Origin": "https://www.jiotv.com/", "Cookie": "__hdnea__=st=1791560210~exp=1791563810~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=8531ed6e7b4de43d35d4814cd54133605ec8361b6d843543cdfe5d35912b5f2a"}
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd
+
