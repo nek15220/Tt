@@ -33,6 +33,12 @@ http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/168.ts
 #EXTINF:-1 tvg-id="&xplore" tvg-logo="https://img.media.jio.com/tvpimages/57/69/300322_1768298093901_l_medium.jpg" group-title="Movies" tvg-language="Hindi",&xplor HD
 http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/4082.ts
 
+#EXTINF:-1 tvg-id="300322" tvg-logo="https://img.media.jio.com/tvpimages/57/69/300322_1768298093901_l_medium.jpg" group-title="Movies" tvg-language="Hindi",&xplor HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/keylicense/300322
+https://streamflexsmm.in/Sflex-Jio/300322/manifest.mpd
+
 #EXTINF:-1 tvg-id="NTV" tvg-logo="https://img.media.jio.com/imagespublic/10/0/NTV_1574694185281_tv.jpg" group-title="News", NTV
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 
