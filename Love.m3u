@@ -1,4 +1,4 @@
-#EXTM3U
+9#EXTM3U
 
 #EXTINF:-1 tvg-id="" ,zee
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
@@ -22,8 +22,9 @@ https://mini.allinonereborn.site/tatatv/tata3.php?id=11619
 #KODIPROP:inputstream.adaptive.license_key=a29004adb8138246b46251d113e211b3
 #EXTINF:-1 ,zeezz
 http://1323302.3259760803.favermeto.com/live/5axHnPxfJG/automatic8meet/98896.ts?token=ShJcU0BbQQNHAQJcBVoCAQEIBwQAV1BQCARQD1RdUlcFAwACBgdaDFEbGBpEF0dcWF1vWQIXXlgJWlsBSUZGQVRCa1tXEVkbVAoGCwRTBxsVEkRZC1BGWwBVWwddUwcDCQgYEENaBxtfGwYLA1EBDAoSHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBN0XVVaRwJVRXZXXVYNFxUbUllEFFQQBBNYQAVSVAIQHRJXXUZdF0scGw4aYjAXFRtVSEQDWxcIXgxADUcQQBAdEl1BbEEGShFLUVlaBkcbAxIAEkoXCQBJPQFYCwpWUUVZW1xAEVkbVBsYGloMW1BNX0JvFlwAQwtAUwNcUgUQHRJBR1pXQQNHXVBZVAdTDl1RCQNRVFFQB1MEUgYFBFABCFcGBVcBWwQbSQ==
+
 #EXTINF:-1 ,STALKER
-http://192.101.68.254/CF5A68754DOMZZZZZ3648e82492f42fc97299567aaed5d3b4bc3e2/index.m3u8?token=fa3622eca6dd0e179cdf42f5d1ff89bc
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemalu_BTS/WDVLive/index.mpd?__hdnea__=st=1792123690~exp=1792127290~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=3109be51700b6696b094ce77d5c9e2bf06c7523535f93329fbd09d3bac1a17e5&__hdnea__=st=1792123690~exp=1792127290~acl=/bpk-tv/ZeeCinemalu_BTS/WDVLive/*~hmac=3109be51700b6696b094ce77d5c9e2bf06c7523535f93329fbd09d3bac1a17e5
 
 #EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Sportlink I Movies",Zee Cinema HD
 #KODIPROP:inputstream=inputstream.adaptive
