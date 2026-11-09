@@ -55,7 +55,7 @@ https://streamflexsmm.in/Sflex-Jio/302077/manifest.mpd
 http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/98860.ts
 
 #EXTINF:-1 tvg-id="Zee-Telugu" tvg-logo="https://img.media.jio.com/tvpimages/69/97/304102_1768463514417_l_medium.jpg" group-title="Telugu", Zee Telugu HD
-http://livebox.pro:80/live/Ola1234/Ola1234/98894.ts
+http://tm-tl-ml.packetcdn.me:8372/8ff02c8d28529a5abbb9b83129ca6b184b63ba728b2a075e2870/index.m3u8?token=8ff9e5717a71265d9218dcfba198ba2f0f7a5f63114bf7bfb1cb01bb79aa0fbe46d5cd2c04ca55a77cd1328be87056b9a36cac3daf8dca818155b6485e00976f79788da30b-e27858cfa93f9031cf38ea65cbdd508b
 
 #EXTINF:-1 tvg-id="zt" tvg-logo="https://img.media.jio.com/tvpimages/46/63/300348_1768311189162_l_medium.jpg" group-title="Telugu" tvg-language="Telugu",Zee Telugu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
