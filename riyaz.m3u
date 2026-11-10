@@ -1,43 +1,46 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="ZCLU" tvg-logo="https://img.media.jio.com/tvpimages/36/74/300346_1768298487528_l_medium.jpg" group-title="Movies" tvg-language="Telugu",Zee Cinemalu
+
+#EXTINF:-1 tvg-id="zclu" tvg-logo="https://img.media.jio.com/tvpimages/36/74/300346_1768298487528_l_medium.jpg" group-title="Movies" tvg-language="Telugu",Zee Cinemalu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/keylicense/300346
-https://streamflexsmm.in/Sflex-Jio/300346/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://sflex.fun/keylicense/300346
+http://sflex.fun/Sflex-Jio/300346/manifest.mpd
 
 #EXTINF:-1 tvg-id="ZCLU" tvg-logo="https://img.media.jio.com/tvpimages/41/55/304099_1768467977325_l_medium.jpg" group-title="Movies" tvg-language="Telugu",Zee Cinemalu HD
-http://tm-tl-ml.packetcdn.me:8372/8ff02c8d28529a5abbb9b83129ca6b184b74b6709b20134d356b10e0/index.m3u8?token=bd8e744bdc8baa016a1d6137cf78d6787d672b5cf3ad02270ff69ec10ed827b6fc087d2e9974d041dc49a40d9e7ebd5cd673b08a519aebd846c8ee7bcb79c7db308aaf6663fc-4d3d49ecbc65d68a2be7e9e6a4a2a384
+http://tm-tl-ml.packetcdn.me:8372/8ff02c8d28529a5abbb9b83129ca6b184b74b6709b20134d356b10e0/index.m3u8?token=7d242db9fe768cf0417f7bb2b71914f260175eb12771e29af0c85e0e1a16975730463b5f4b792e1e527762960714f464df61241f7138140510ebb4405b98aa33c70a6b1650-afe4ca0f820895b98ad0f7cb2ac0c3e3
 
 #EXTINF:-1 tvg-id="ZC" tvg-logo="https://img.media.jio.com/tvpimages/76/6/300330_1768289569650_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Zee Cinema HD
 http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/230.ts
 
-#EXTINF:-1 tvg-id="ZC" tvg-logo="https://img.media.jio.com/tvpimages/76/6/300330_1768289569650_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Zee Cinema HD
+#EXTINF:-1 tvg-id="zc" tvg-logo="https://img.media.jio.com/tvpimages/64/80/300310_1753869347739_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Zee Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/keylicense/300330
-https://streamflexsmm.in/Sflex-Jio/300330/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://sflex.fun/keylicense/300310
+http://sflex.fun/Sflex-Jio/300310/manifest.mpd
 
-#EXTINF:-1 tvg-id="SMM" group-title="Telugu" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maa_Movies.png" group-title="Movies",Maa Movies
+#EXTINF:-1 tvg-id="smm" tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652833210_p.jpg" group-title="Movies" tvg-language="Telugu",Star Maa Movies HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=1111
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-#EXTHTTP:{"cookie":"__hdnea__=st=1792146317~exp=1792167917~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=b7763110940cf6c95166ca4ea0c3dc1064271c8b488319a500e055dc2a8c9f3f"}
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=1111
+#KODIPROP:inputstream.adaptive.license_key=http://sflex.fun/keylicense/301978
+http://sflex.fun/Sflex-Jio/301978/manifest.mpd
 
 #EXTINF:-1 tvg-id="star-maa-movie" tvg-logo="https://img.media.jio.com/tvpimages/84/38/301978_1749652833210_p.jpg" group-title="Movies" tvg-language="Telugu",Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 
-#EXTINF:-1 tvg-id="star-maa" tvg-logo="https://img.media.jio.com/tvpimages/61/7/301986_1749652711344_p.jpg" group-title="Telugu", Star Maa HD
-http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/168.ts
-
-#EXTINF:-1 tvg-id="&xplore" tvg-logo="https://img.media.jio.com/tvpimages/57/69/300322_1768298093901_l_medium.jpg" group-title="Movies" tvg-language="Hindi",&xplor HD
-http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/4082.ts
-
-#EXTINF:-1 tvg-id="300322" tvg-logo="https://img.media.jio.com/tvpimages/57/69/300322_1768298093901_l_medium.jpg" group-title="Movies" tvg-language="Hindi",&xplor HD
+#EXTINF:-1 tvg-id="sma" tvg-logo="https://img.media.jio.com/tvpimages/61/7/301986_1749652711344_p.jpg" group-title="Entertainment" tvg-language="Telugu",Star Maa HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/keylicense/300322
-https://streamflexsmm.in/Sflex-Jio/300322/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://sflex.fun/keylicense/301986
+http://sflex.fun/Sflex-Jio/301986/manifest.mpd
+
+#EXTINF:-1 tvg-id="&xplore" tvg-logo="https://img.media.jio.com/tvpimages/57/69/300322_1768298093901_l_medium.jpg" group-title="Movies" tvg-language="Hindi",&xplor HD
+http://hin1.packetcdn.me:8972/8ff02c8d28529a5abbb9b83129c27a025b65b8619f23165e256c08e81eb6bbb36d47d9e1/index.m3u8?token=d72621db79392354a47e8e372733511f8d81b00e2bdbea771061cea2a2dabb9049ad0d2fcfff3bc63d59cd25dee9fb1059361232a86b97f6bf1d8f7348f357de34998e111a-83348641456a560c456288e4a35788ee
+
+#EXTINF:-1 tvg-id="&xplo" tvg-logo="https://img.media.jio.com/tvpimages/57/69/300322_1768298093901_l_medium.jpg" group-title="Movies" tvg-language="Hindi",&xplor HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://sflex.fun/keylicense/300322
+http://sflex.fun/Sflex-Jio/300322/manifest.mpd
 
 #EXTINF:-1 tvg-id="NTV" tvg-logo="https://img.media.jio.com/imagespublic/10/0/NTV_1574694185281_tv.jpg" group-title="News", NTV
 https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
@@ -45,42 +48,38 @@ https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8
 #EXTINF:-1 tvg-id="TV9Telugu" tvg-language="Telugu" tvg-logo="https://img.media.jio.com/tvpimages/86/54/301138_1753183000909_l_medium.jpg" group-title="News", TV9 Telugu
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1154" tvg-logo="https://img.media.jio.com/tvpimages/87/52/302077_1753204066231_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Star Gold 2
+#EXTINF:-1 tvg-id="sg2" tvg-logo="https://img.media.jio.com/tvpimages/87/52/302077_1753204066231_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Star Gold 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/keylicense/302077
-https://streamflexsmm.in/Sflex-Jio/302077/manifest.mpd
-
-#EXTINF:-1 tvg-id="ZeeCinema"tvg-language="Hindi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/zee-cinema-hd-in.png" group-title="Movies", Zee Cinema
-http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/98860.ts
+#KODIPROP:inputstream.adaptive.license_key=http://sflex.fun/keylicense/302077
+http://sflex.fun/Sflex-Jio/302077/manifest.mpd
 
 #EXTINF:-1 tvg-id="Zee-Telugu" tvg-logo="https://img.media.jio.com/tvpimages/69/97/304102_1768463514417_l_medium.jpg" group-title="Telugu", Zee Telugu HD
-http://tm-tl-ml.packetcdn.me:8372/8ff02c8d28529a5abbb9b83129ca6b184b63ba728b2a075e2870/index.m3u8?token=8ff9e5717a71265d9218dcfba198ba2f0f7a5f63114bf7bfb1cb01bb79aa0fbe46d5cd2c04ca55a77cd1328be87056b9a36cac3daf8dca818155b6485e00976f79788da30b-e27858cfa93f9031cf38ea65cbdd508b
+http://tm-tl-ml.packetcdn.me:8372/8ff02c8d28529a5abbb9b83129ca6b184b63ba728b2a075e2870/index.m3u8?token=6645fe6056e6f53e7aec8b4667bed503bd258a0f5f906bc0c8a77407892ca4c059aad39c6779c7d207ac65b9378813eb83ead9b044140dae04d97e0772bb2dbb83dfa967bf-00fefcfb353a163ec2b0c3f06156026d
 
-#EXTINF:-1 tvg-id="zt" tvg-logo="https://img.media.jio.com/tvpimages/46/63/300348_1768311189162_l_medium.jpg" group-title="Telugu" tvg-language="Telugu",Zee Telugu
+#EXTINF:-1 tvg-id="zt" tvg-logo="https://img.media.jio.com/tvpimages/69/97/304102_1768463514417_l_medium.jpg" group-title="Telugu" tvg-language="Telugu",Zee Telugu HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/keylicense/300348
-https://streamflexsmm.in/Sflex-Jio/300348/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://sflex.fun/keylicense/304102
+http://sflex.fun/Sflex-Jio/304102/manifest.mpd
 
-#EXTINF:-1 tvg-id="zac" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeAnmolCinema.png" group-title="Movies",Zee Anmol Cinema
+#EXTINF:-1 tvg-id="zac" tvg-logo="https://img.media.jio.com/tvpimages/57/61/300309_1753870628536_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Anmol Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://allinonereborn2.online/jtv-fetch/keyid.php?id=415
-#EXTVLCOPT:http-user-agent=@allinone_reborn
-#EXTHTTP:{"cookie":"__hdnea__=st=1792159695~exp=1792163295~acl=/bpk-tv/ZeeAnmolCinema_BTS/WDVLive/*~hmac=9503fb6122bf1dfca178e45cdc1a73a34a398f1c625fea57c2fa752d197593ab"}
-https://allinonereborn2.online/jiotv-m3u/jtv.mpd?id=415
+#KODIPROP:inputstream.adaptive.license_key=http://sflex.fun/keylicense/300309
+http://sflex.fun/Sflex-Jio/300309/manifest.mpd
 
 #EXTINF:-1 tvg-id="zac2" tvg-logo="https://img.media.jio.com/tvpimages/27/32/300332_1753871146752_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Anmol Cinema 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/keylicense/300332
-https://streamflexsmm.in/Sflex-Jio/300332/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://sflex.fun/keylicense/300332
+http://sflex.fun/Sflex-Jio/300332/manifest.mpd
 
 #EXTINF:-1 tvg-id="185" tvg-logo="https://img.media.jio.com/tvpimages/47/48/300315_1753869579828_l_medium.jpg" group-title="Movies" tvg-language="Hindi",&Pictures
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamflexsmm.in/keylicense/300315
-https://streamflexsmm.in/Sflex-Jio/300315/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=http://sflex.fun/keylicense/300315
+http://sflex.fun/Sflex-Jio/300315/manifest.mpd
 
 #EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment", SET HD
 https://sliv.tgaadi.workers.dev/sethd.m3u8
