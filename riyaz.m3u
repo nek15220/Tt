@@ -6,7 +6,7 @@
 https://streamflexsmm.in/Sflex-Jio/300346/manifest.mpd
 
 #EXTINF:-1 tvg-id="ZCLU" tvg-logo="https://img.media.jio.com/tvpimages/41/55/304099_1768467977325_l_medium.jpg" group-title="Movies" tvg-language="Telugu",Zee Cinemalu HD
-http://livebox.pro:80/live/Ola1234/Ola1234/98896.ts
+http://tm-tl-ml.packetcdn.me:8372/8ff02c8d28529a5abbb9b83129ca6b184b74b6709b20134d356b10e0/index.m3u8?token=bd8e744bdc8baa016a1d6137cf78d6787d672b5cf3ad02270ff69ec10ed827b6fc087d2e9974d041dc49a40d9e7ebd5cd673b08a519aebd846c8ee7bcb79c7db308aaf6663fc-4d3d49ecbc65d68a2be7e9e6a4a2a384
 
 #EXTINF:-1 tvg-id="ZC" tvg-logo="https://img.media.jio.com/tvpimages/76/6/300330_1768289569650_l_medium.jpg" group-title="Movies" tvg-language="Hindi",Zee Cinema HD
 http://skyfilex.fun:80/live/5axHnPxfJG/automatic8meet/230.ts
