@@ -1,29 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" ,zee
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+#EXTINF:-1 tvg-id="1" ,zclu
+http://tm-tl-ml.packetcdn.me:8372/8ff02c8d28529a5abbb9b83129ca6b184b74b6709b20134d356b10e0/index.m3u8?token=7d242db9fe768cf0417f7bb2b71914f260175eb12771e29af0c85e0e1a16975730463b5f4b792e1e527762960714f464df61241f7138140510ebb4405b98aa33c70a6b1650-afe4ca0f820895b98ad0f7cb2ac0c3e3
 
+#EXTINF:-1 tvg-id="2" ,zt
+http://tm-tl-ml.packetcdn.me:8372/8ff02c8d28529a5abbb9b83129ca6b184b63ba728b2a075e2870/index.m3u8?token=6645fe6056e6f53e7aec8b4667bed503bd258a0f5f906bc0c8a77407892ca4c059aad39c6779c7d207ac65b9378813eb83ead9b044140dae04d97e0772bb2dbb83dfa967bf-00fefcfb353a163ec2b0c3f06156026d
 
+#EXTINF:-1 tvg-id="3" ,
+
+#EXTINF:-1 tvg-name="Maa Movies Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" group-title="Movies", Maa Movies Digital
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#KODIPROP:inputstream.adaptive.license_key=c559e8b9079a458eadd5e9c7dbb40000:b6f184b3e9734b328773686363bfc465
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e2f8496a3c4ebafc44650d6ff7105d62:be2a3d5e5113f06f822562068f7721ee,d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f,4daa30df33a8d0e6a7a7a167cf5e8987:0bc387e79fb9f65b58d9b35afdc2bbc9,6b4caf847f30f962f5addcda4c77b12c:4adf654a10b5f3afbf285693a3b43d23,c3f133e51cdf06da4a9906234faeffbe:1970bbae555ed81483a06c1f5fd98af3
-#EXTINF:-1 tvg-id="zz",zeecenima-key
-https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/WDVLive/index.mpd?__hdnea__=st=1791127056~exp=1791130656~acl=/bpk-tv/ZeeCinemaHD_BTS/WDVLive/*~hmac=b774bd6258d5c1f2b8992cac695be32a3ed67e54be4efa69eb29bdc7f9dff16b
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1794315697~acl=%2f*~id=32ba5ffc2add49caa7e2cf3b8bd20e6d~data=hdntl~hmac=b52494210718587634cf05b6bcd48b04a257f4ddb6fe4fd0db00ead1e05a34d1
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1794315697~acl=%2f*~id=32ba5ffc2add49caa7e2cf3b8bd20e6d~data=hdntl~hmac=b52494210718587634cf05b6bcd48b04a257f4ddb6fe4fd0db00ead1e05a34d1"}
+https://livetv.hotstar.com/mp1/gec-india-1540068286/7f555c63f0854f7b8737681943681333/index.mpd
 
-#EXTINF:-1 tvg-id"e",star
-http://520420.01739.aquafina.live/live/SDWCbxAB7P/iKtELnv8L1/98873.m3u8?play_token=IIn43JQZMI&token=ShJcU0BbQQNHDQAIDlNXDl0AUgZQBFMDB1JbUwMCA1RSBwVUB1JXW1cbGBpEF0dcWF1vWQIXXlgJWlUESUZGQVRCa1tXEVkbUAsEDAVTFxUbRFldAxdeUR1AEl4BRgkQBQANAQoHVRtJG1FAQwZHV1hcb1QDQw0CVEBYWRAIXx4TX1ptV1YOWAtdFgIVUxcVG1lDQEQPRilUFhhZABYTfV9cXVxWEU8bB1BASlYXUBsDEgUEVwFGTRMBDUILEEFLEwoWdnYRTxsAQUBdWRBcVlcSChILBhFZE05AXhY7QVdCREZXUl4GS0cDFggVTxdUWEhvUwlbCgRSFgtYCxcRCBMBFh4RXgxXDE1bSmgTXF0bChIDVAZWVAdRQBtHEUZbVRIOEABRUw4EAAIJAVZQWloDBgZRAldXAFRXVgMCB1MEVAIGEU4=
-#EXTINF:-1 tvg-id="i",zeeceni-allin1
-https://mini.allinonereborn.site/tatatv/tata3.php?id=44185
-#EXTINF:-1 ,ZEE CENEMA HIN
-https://mini.allinonereborn.site/tatatv/tata3.php?id=11693
-#EXTINF:-1 ,&XPLOR 
-https://mini.allinonereborn.site/tatatv/tata3.php?id=11619
-
+#EXTINF:-1 tvg-name="Maa Movies Digital" tvg-logo="https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2722/1782288522722-h.jpg" group-title="Movies", Maa Movies Digital
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Virat&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com
+#KODIPROP:inputstream.adaptive.license_key=c559e8b9079a458eadd5e9c7dbb40000:b6f184b3e9734b328773686363bfc465
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a29004adb8138246b46251d113e211b3
-#EXTINF:-1 ,zeezz
-http://1323302.3259760803.favermeto.com/live/5axHnPxfJG/automatic8meet/98896.ts?token=ShJcU0BbQQNHAQJcBVoCAQEIBwQAV1BQCARQD1RdUlcFAwACBgdaDFEbGBpEF0dcWF1vWQIXXlgJWlsBSUZGQVRCa1tXEVkbVAoGCwRTBxsVEkRZC1BGWwBVWwddUwcDCQgYEENaBxtfGwYLA1EBDAoSHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBN0XVVaRwJVRXZXXVYNFxUbUllEFFQQBBNYQAVSVAIQHRJXXUZdF0scGw4aYjAXFRtVSEQDWxcIXgxADUcQQBAdEl1BbEEGShFLUVlaBkcbAxIAEkoXCQBJPQFYCwpWUUVZW1xAEVkbVBsYGloMW1BNX0JvFlwAQwtAUwNcUgUQHRJBR1pXQQNHXVBZVAdTDl1RCQNRVFFQB1MEUgYFBFABCFcGBVcBWwQbSQ==
+#EXTVLCOPT:http-user-agent=Virat
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
+#EXTVLCOPT:http-cookie=hdntl=exp=1794315697~acl=%2f*~id=32ba5ffc2add49caa7e2cf3b8bd20e6d~data=hdntl~hmac=b52494210718587634cf05b6bcd48b04a257f4ddb6fe4fd0db00ead1e05a34d1
+#EXTHTTP:{"Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Virat","Cookie":"hdntl=exp=1794315697~acl=%2f*~id=32ba5ffc2add49caa7e2cf3b8bd20e6d~data=hdntl~hmac=b52494210718587634cf05b6bcd48b04a257f4ddb6fe4fd0db00ead1e05a34d1"}
+https://livetv.hotstar.com/mp1/gec-india-1540068286/7f555c63f0854f7b8737681943681333/index.mpd
 
-#EXTINF:-1 ,STALKER
+#EXTINF:-1 tvg-id="4" ,
+
+#EXTINF:-1 tvg-id="5" ,
+
+#EXTINF:-1 tvg-id="6" ,
+
+#EXTINF:-1 tvg-id="7" ,
+
+#EXTINF:-1 ,xplorer
 http://hin1.packetcdn.me:8972/8ff02c8d28529a5abbb9b83129c27a025b65b8619f23165e256c08e81eb6bbb36d47d9e1/index.m3u8?token=d72621db79392354a47e8e372733511f8d81b00e2bdbea771061cea2a2dabb9049ad0d2fcfff3bc63d59cd25dee9fb1059361232a86b97f6bf1d8f7348f357de34998e111a-83348641456a560c456288e4a35788ee
 
 #EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Sportlink I Movies",Zee Cinema HD
