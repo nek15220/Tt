@@ -1,4 +1,4 @@
-9#EXTM3U
+#EXTM3U
 
 #EXTINF:-1 tvg-id="" ,zee
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
@@ -24,7 +24,7 @@ https://mini.allinonereborn.site/tatatv/tata3.php?id=11619
 http://1323302.3259760803.favermeto.com/live/5axHnPxfJG/automatic8meet/98896.ts?token=ShJcU0BbQQNHAQJcBVoCAQEIBwQAV1BQCARQD1RdUlcFAwACBgdaDFEbGBpEF0dcWF1vWQIXXlgJWlsBSUZGQVRCa1tXEVkbVAoGCwRTBxsVEkRZC1BGWwBVWwddUwcDCQgYEENaBxtfGwYLA1EBDAoSHBIDTRAEQwwDWzoAVkRYU1EQCV0WVQkVFldZPFFcVFFeVEQPRlETTkBeFhQRCBN0XVVaRwJVRXZXXVYNFxUbUllEFFQQBBNYQAVSVAIQHRJXXUZdF0scGw4aYjAXFRtVSEQDWxcIXgxADUcQQBAdEl1BbEEGShFLUVlaBkcbAxIAEkoXCQBJPQFYCwpWUUVZW1xAEVkbVBsYGloMW1BNX0JvFlwAQwtAUwNcUgUQHRJBR1pXQQNHXVBZVAdTDl1RCQNRVFFQB1MEUgYFBFABCFcGBVcBWwQbSQ==
 
 #EXTINF:-1 ,STALKER
-http://s3.e-cdn.me:80/live/ym7nfrkoer/aeva2s0kd7/277160.ts
+http://hin1.packetcdn.me:8972/8ff02c8d28529a5abbb9b83129c27a025b65b8619f23165e256c08e81eb6bbb36d47d9e1/index.m3u8?token=d72621db79392354a47e8e372733511f8d81b00e2bdbea771061cea2a2dabb9049ad0d2fcfff3bc63d59cd25dee9fb1059361232a86b97f6bf1d8f7348f357de34998e111a-83348641456a560c456288e4a35788ee
 
 #EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaHD.png" group-title="Sportlink I Movies",Zee Cinema HD
 #KODIPROP:inputstream=inputstream.adaptive
